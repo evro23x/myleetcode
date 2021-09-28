@@ -17,7 +17,7 @@ func main() {
 	nums := []int{3,2,3}
 	target := 9
 	twoSum(nums, target)
-	fmt.Println(1)
+	fmt.Println("done")
 }
 
 //func twoSum(nums []int, target int) []int {
